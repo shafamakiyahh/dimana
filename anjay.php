@@ -1,5 +1,5 @@
 <?php
-$tokenBot    = "1046177138:AAELLW01Q1iv3CNXUiNOSwB64gG6liCuRs8";
+$tokenBot    = "HTTP API:1046177138:AAELLW01Q1iv3CNXUiNOSwB64gG6liCuRs8";
 $tokenGopay  = "0ea8bb15-296d-4061-8cbd-08689ee43915";
 $pinGopay    = "180520";
 
